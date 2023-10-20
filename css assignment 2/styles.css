@@ -1,0 +1,51 @@
+/* Body background and text styles */
+body {
+    background-color: #f7f7f7; /* Light gray background */
+    font-family: 'Arial', sans-serif;
+    color: #333; /* Dark text color */
+}
+
+/* Header styles */
+header {
+    background-color: #FF4500; /* Dark orange background */
+    color: #fff; /* White text color */
+    text-align: center;
+    padding: 20px;
+}
+
+/* Main section styles */
+main {
+    padding: 20px;
+}
+
+/* Section with lyrics styles */
+.lyrics {
+    font-size: 18px;
+    line-height: 1.6;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+/* Verse styles */
+.verse {
+    font-style: italic; /* Emphasize the lyrics */
+    color: #000080; /* Dark blue text color for emphasis */
+}
+
+/* Chorus styles */
+.chorus {
+    font-weight: bold; /* Emphasize the chorus */
+    color: #FFD700; /* Gold text color for emphasis */
+}
+
+/* Footer styles */
+footer {
+    background-color: #FF4500; /* Dark orange background */
+    color: #fff; /* White text color */
+    text-align: center;
+    padding: 10px;
+}
+
+/* Copyright text */
+footer p {
+    font-si
